@@ -1,9 +1,9 @@
 {
-  "owner": "Dip To",
+  "owner": "Rudro",
   "fb_ID":"ADD_YOUR_FACEBOOK_ID",
-  "adminName": "Dip To",
-  "botName": "Your Baby",
-  "token": "ADD_YOUR_BOT_TOKEN_HERE",
+  "adminName": "Rudro",
+  "botName": "MiNi•CaT😙,
+  "token": "7833540890:AAHUBJYMNoXPeIdtU6ckGoDc4tod3T63fGk",
 "mongodbURI":"mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": "!",
@@ -13,10 +13,10 @@
     "json": false
   },
   "adminBot": [
-    6242891290
+    6393206867
   ],
   "botOperator": [
-    6242891290
+    6393206867
   ],
   "inbox": true,
   "white_list_group": {
